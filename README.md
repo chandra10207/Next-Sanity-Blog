@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Recommended article:
+https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-sanity-and-nextjs/
+
+
 First, run the development server:
 
 ```bash
